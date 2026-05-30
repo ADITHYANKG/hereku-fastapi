@@ -1,1 +1,4 @@
 githelp_readme.md
+venv/
+.env
+__pycache__
