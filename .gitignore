@@ -1,4 +1,5 @@
-githelp_readme.md
-venv/
+fastapi/
 .env
-__pycache__
+__pycache__/
+*.pyc
+githelp_readme.md
